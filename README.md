@@ -24,3 +24,11 @@ The dataset contains store-wise daily sales data.
 Data is split into training (2013-2016) and testing (2017) based on date.
 
 Features Used: Store ID, Item ID, Date, External Features (via Upgini).
+
+🔮 Future Improvements
+
+Improve feature selection and optimize hyperparameters.
+
+Implement batch processing to handle Upgini API limits.
+
+Deploy the model for real-time sales predictions.
